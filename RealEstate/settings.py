@@ -142,12 +142,7 @@ MESSAGE_TAGS = {
     messages.ERROR: 'danger'
 }
 
-# EMAIL CONFIG
-EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_PORT = 587
-EMAIL_HOST_USER = 'mumtaztarana0210@gmail.com'
-EMAIL_HOST_PASSWORD = 'tarana@0210'
-EMAIL_USE_TLS = True
+
 
 
 
